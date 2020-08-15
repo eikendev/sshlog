@@ -7,7 +7,7 @@ This is a collection of scripts for analyzing SSH logs and generating statistics
 The following plot shows what usernames are commonly being used to attempt breaking into a machine over SSH.
 The data was collected over a period of four months on a personal server.
 
-!(Most frequent names)[https://i.imgur.com/bI50cSm.png]
+![Most frequent names](https://i.imgur.com/bI50cSm.png)
 
 ## Dependencies
 
